@@ -1,5 +1,5 @@
 # nanomator
-A simple MonoGame script for animations
+A simple MonoGame script for animations.
 
 # Contributing
 The script is open-source, so anyone can modify it.
